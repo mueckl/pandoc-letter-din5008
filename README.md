@@ -35,9 +35,9 @@ encludes: Muster, Muster, Muster
 
 The compiled result will then look like this:
 
-![alt Letter](https://github.com/benedu/pandoc-letter/raw/master/example/letter.png)
+![alt Letter](https://github.com/mueckl/pandoc-letter-din5008/raw/master/example/letter.png)
 
-You can also download the compiled PDF [here](https://github.com/benedu/pandoc-letter/raw/master/example/letter.pdf).
+You can also download the compiled PDF [here](https://github.com/mueckl/pandoc-letter-din5008/raw/master/example/letter.pdf).
 
 
 ## Requirements
